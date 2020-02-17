@@ -1,3 +1,3 @@
-CSES [link](https://cses.fi/)
+CSES [website](https://cses.fi/)
 
-My CSES profile [link](https://cses.fi/user/8464)
+My CSES [profile](https://cses.fi/user/8464)
