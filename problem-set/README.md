@@ -1,3 +1,3 @@
-[link](https://cses.fi/problemset/list/) for CSES Problem Set
+CSES [Problem Set](https://cses.fi/problemset/list/)
 
-[Link](https://cses.fi/problemset/user/8464/) for my CSES Problem Set Statistics
+My CSES [Problem Set Statistics](https://cses.fi/problemset/user/8464/)
