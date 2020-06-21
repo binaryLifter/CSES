@@ -1,3 +1,5 @@
-CSES [website](https://cses.fi/)
+# cses
+Solutions for URI Online Judge problems
 
-My CSES [profile](https://cses.fi/user/8464)
+## Profile
+https://cses.fi/user/8464
